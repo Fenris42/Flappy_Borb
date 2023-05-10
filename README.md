@@ -1,5 +1,5 @@
 # Flappy Borb
  Flappy Bird Clone
 
-#To Play:
+To Play:
 Download Build folder and run Flappy Borb.exe
