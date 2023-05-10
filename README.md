@@ -1,5 +1,5 @@
 # Flappy Borb
- Flappy Bird Clone
+ My first Unity project, a Flappy Bird Clone
 
-To Play:
+<b>To Play:</b></br>
 Download Build folder and run Flappy Borb.exe
